@@ -1,4 +1,4 @@
-# Thinking in Enaction - UX-London-2015
+# Thinking in Enaction - UX London 2015
 Link to the talk video: TBA
 
 ## Tools referenced in the talk
