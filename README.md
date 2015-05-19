@@ -1,7 +1,11 @@
 # Thinking in Enaction - UX London 2015
 Link to the talk video: TBA
 
-## Tools referenced in the talk
+## Theory reference
+[Alan Dix - Externalisation](http://alandix.com/academic/papers/externalisation-2008/)
+[Jerome Bruner - Learning Theory](http://www.theoryfundamentals.com/bruner.htm)
+
+## Tools reference
 ### Creating with Paper
 [Marvel App](https://marvelapp.com) - This was used to take a simple interactive paper idea and quickly capture this into a digital interactive form.
 
